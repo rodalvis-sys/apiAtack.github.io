@@ -1,0 +1,12 @@
+{
+"id": "1",
+"Fecha": "2022-03-16",
+"Hora": "12:23:30",
+"Ciudad":"Kiev", 
+"Latitud":"324443", 
+"Longitud":"24342", 
+"Tipo":"Aereo", 
+"Muertos":"#", 
+"Heridos":"#", 
+"Total_daños":"#", 
+"Autor":"#"}
